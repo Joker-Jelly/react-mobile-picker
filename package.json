@@ -1,8 +1,8 @@
 {
   "name": "react-picker-x",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An iOS like select box component for React",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "adcentury/react-mobile-picker"
